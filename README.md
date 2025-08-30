@@ -1,1 +1,1 @@
-# Recipes
+First project of html in The Odin Project. 
